@@ -1,0 +1,30 @@
+//# css的常用变量
+
+// sidebar
+$menuText: #bfcbd9;
+$menuActiveText: #ffffff;
+$subMenuActiveText: #f4f4f5;
+
+$menuBg: #79c41b;
+$menuHover: #263445;
+
+$subMenuBg: #940431;
+$subMenuHover: #001528;
+
+$sideBarWidth: 225px;
+
+$headBarBg: #292f40;
+
+
+// 和js共用
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+  headBarBg: $headBarBg;
+}

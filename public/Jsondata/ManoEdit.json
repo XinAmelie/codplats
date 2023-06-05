@@ -1,0 +1,38 @@
+{
+  "base": {
+    "Addr": "",
+    "Caller": "",
+    "Client": "",
+    "Extra": {
+      "": ""
+    },
+    "LogID": "",
+    "TrafficEnv": {
+      "Env": "",
+      "Open": false
+    }
+  },
+  "info": {
+    "app_id": 0,
+    "locale": "",
+    "mode_type": 0,
+    "open_platform_locale": "",
+    "params": [
+      {
+        "key": "",
+        "starling_project": 0,
+        "value": "",
+        "value_type": 0
+      }
+    ],
+    "seller_id": 0,
+    "user_id": 0,
+    "user_id_type": 0
+  },
+  "op_cfg": {
+    "extra_info": {
+      "": ""
+    }
+  },
+  "task_id": 0
+}

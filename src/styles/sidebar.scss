@@ -1,0 +1,22 @@
+#app {
+  .main-container {
+
+    transition: margin-left 0.28s;
+    margin-left: $sideBarWidth;
+    position: relative;
+    background-color: rgba(242, 243, 245, 1);
+
+    margin-right: 20px;
+  }
+
+  .sidebar-container {
+    transition: width 0.28s;
+    width: $sideBarWidth !important;
+    height: calc(100vh - 44px);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+  }
+}
+
